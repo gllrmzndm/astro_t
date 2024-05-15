@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-pageTitle: "This one doesnt work"
+title: "This is the title in the formatter"
 pubDate: 2022-08-08
 description: "FUCKING Description --->>>>>>> This is the first post of my new Astro blog."
 author: "Astro Learner"
@@ -10,7 +10,7 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 ---
 
-# My First Blog Post wsadasdsadsadasdasdsadsadasdsadsadas kutgezeik
+# My First Blog Post kutgezeik1111111111111
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
